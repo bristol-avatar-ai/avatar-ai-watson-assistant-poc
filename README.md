@@ -2,4 +2,4 @@
 
 Check out our demo [here][1]!
 
-[1]: https://la19074.github.io/watson_chatbox/ "Virtual Assistant"
+[1]: https://bristol-avatar-ai.github.io/avatar-ai-watson-assistant-poc/ "Virtual Assistant"
